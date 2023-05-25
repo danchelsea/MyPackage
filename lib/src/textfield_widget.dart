@@ -31,7 +31,7 @@ class MyTextField extends StatelessWidget {
           Expanded(
             child: TextFormField(
               style: const TextStyle(
-                color: Colors.red,
+                color: Colors.cyan,
               ),
               controller: controller,
               obscureText: isPassword,
